@@ -98,6 +98,7 @@ hexo server
 <a href="https://blog.mchook.cn/2021/07/22/icarus%E4%B8%BB%E9%A2%98%E8%87%AA%E5%AE%9A%E4%B9%89/"><i class="fas fa-bookmark mr-2"></i> icarus主题自定义 by kuzen</a>
 <a href="https://blakeneko.github.io/2021/07/28/Icarus4%E4%B8%BB%E9%A2%98%E8%87%AA%E5%AE%9A%E4%B9%89%E8%AE%B0%E5%BD%95/"><i class="fas fa-bookmark mr-2"></i> Icarus4主题自定义记录 by BlakeNeko</a>
 <a href="https://www.alphalxy.com/2019/03/customize-icarus/"><i class="fas fa-bookmark mr-2"></i> Icarus 主题自定义 by AlphaLxy</a>
+<a href="https://www.mutter.cn/%E9%85%8D%E7%BD%AE/hexoThemeIcarusDarkTheme/"><i class="fas fa-bookmark mr-2"></i> Icarus black 黑色主题 by Mutter</a>
 </div>
 
 <br>
